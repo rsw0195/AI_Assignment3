@@ -1,0 +1,1 @@
+Given two sets of code, provide a block comment on the overall purpose and expected output for the code. For each line of provided code, comment the purpose of each line, i.e. what is happening and/or why was the line used.
